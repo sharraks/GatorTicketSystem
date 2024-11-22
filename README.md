@@ -70,9 +70,9 @@ In my submission, there are six python files, namely:
 
 Running Process:
 Unzip the folder if donloaded a zip file and/or else open a terminal from the root folder and run the program using command:
--	python3 gatorTicketMaster.py <filename>
+-	python3 gatorTicketMaster.py [FileName]
 
-<fileName> is the file which contains the sequence of operations to be performed on the service.
+FileName is the file which contains the sequence of operations to be performed on the service.
 
 Example Testcase:
 Initialize(4)
